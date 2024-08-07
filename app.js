@@ -96,7 +96,11 @@ djhdjsjd
  }
 
  console.log(myApp(8479237428,100))
+ console.log(myApp(8479237428,100))
 // myApp()
+
+
+
 
 
 
