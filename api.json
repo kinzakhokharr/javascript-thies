@@ -1,0 +1,66 @@
+{
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Thor",
+          "last": "Hals"
+        },
+        "location": {
+          "street": {
+            "number": 5303,
+            "name": "Eckersbergs gate"
+          },
+          "city": "Evje",
+          "state": "Bergen",
+          "country": "Norway",
+          "postcode": "9760",
+          "coordinates": {
+            "latitude": "46.8541",
+            "longitude": "-47.4345"
+          },
+          "timezone": {
+            "offset": "+3:00",
+            "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+          }
+        },
+        "email": "thor.hals@example.com",
+        "login": {
+          "uuid": "e488221a-425d-4725-95b9-71df57f62dfa",
+          "username": "silverlion504",
+          "password": "emerson",
+          "salt": "skvZEjxY",
+          "md5": "ae049e5df56665a18fecdbf0e0c13468",
+          "sha1": "c643a7fdd240c7d7649449a0a19d84b18d9f564f",
+          "sha256": "ede5f5c5969733ccb43a0b4c2f593b67898f378e182eabcb1d9668b7c5a6f3b1"
+        },
+        "dob": {
+          "date": "1948-05-29T23:49:55.053Z",
+          "age": 76
+        },
+        "registered": {
+          "date": "2018-12-07T02:13:11.609Z",
+          "age": 5
+        },
+        "phone": "34941896",
+        "cell": "95826739",
+        "id": {
+          "name": "FN",
+          "value": "29054816322"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/96.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+        },
+        "nat": "NO"
+      }
+    ],
+    "info": {
+      "seed": "fff874628bbc8c81",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
